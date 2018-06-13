@@ -79,4 +79,4 @@ This is a *very* useful tool for developers to see what's going on inside the co
 <br/>
 <hr/>
 
-:trophy: ***Great job!*** **[Next up: .....](#)**
+:trophy: ***Great job!*** **[Next up: asking questions with comparison and logical operators!](https://github.com/LearnTeachCode/js-intro-logic/blob/master/2-comparison-logic.md)**
