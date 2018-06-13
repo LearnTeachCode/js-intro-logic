@@ -214,7 +214,7 @@ This program is *very similar* to the one in challenge #11 above, but there's on
 
 ## Group coding review:
 
-.....
+:star: [**Click here to open up our shared Glitch project again**](https://glitch.com/edit/#!/join/90ae8166-64f3-486f-9821-f2a725c842ee), so we can review a bit of what we've learned as a group!
 
 <br/>
 <hr/>
