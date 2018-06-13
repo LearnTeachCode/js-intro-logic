@@ -1,8 +1,8 @@
 # Part 2: Asking questions: Comparison and logical operators
 
-Computers make decisions by first checking if a certain condition is ***true*** or ***false***.
+At their core, software programs are just a bunch of switches that turn on and off -- ***true*** or ***false***, 1 or 0.
 
-Have you ever played the game "20 questions"? The goal is to guess what someone's thinking of, by asking no more than 20 questions -- *but you can only ask *yes or no* questions.* That's how software programs work, too!
+Have you ever played the game "20 questions"? The goal is to guess what someone's thinking of, by asking no more than 20 questions -- *but you can only ask *yes or no* questions.* That's how our code works, too!
 
 <br/>
 
@@ -14,7 +14,7 @@ Remember the **"less than"**, **"greater than"**, or **"equal to"** symbols from
 
 <br/>
 
-So let's tinker with code to ask the computer some questions!
+So let's start by asking and answering some questions with code!
 
 <hr/>
 
