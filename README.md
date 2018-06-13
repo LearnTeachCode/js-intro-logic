@@ -14,4 +14,6 @@
   
   3. [Making decisions with conditional statements](https://github.com/LearnTeachCode/js-intro-logic/blob/master/3-conditional-statements.md)
 
+<br/>
+
 :star: This is a living document, so all the content here will be edited and updated over time. Feedback is always welcome!
