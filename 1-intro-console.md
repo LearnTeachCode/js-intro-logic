@@ -4,6 +4,8 @@ Time to tinker with code and break stuff! Today we'll work together on several p
 
 :trophy: For all of these challenges, the goal is ***have fun!*** It doesn't matter if you're correct or not. Like they say, we learn more from our failures than from our successes. So let's have fun "failing", breaking things on purpose, and learning from the experience!
 
+<br/>
+
 **We'll be using the following tools to run and test our code today:**
 
   1. Run your code directly inside your web browser's JavaScript console (see our **4 min video on the console in Chrome: https://youtu.be/O_sJE_3jKZ4**)
@@ -12,6 +14,7 @@ Time to tinker with code and break stuff! Today we'll work together on several p
   
   > Glitch also lets us create, test, and share web apps using HTML, CSS, and JavaScript files all within the web browser (see our **6 min video introducing Glitch: https://youtu.be/juqFTEoHN2Q**)
 
+<br/>
 <hr/>
 
 ## First: How to open your web browser's JavaScript console
@@ -43,16 +46,20 @@ Once your browser console is open, it should look something like this in the Chr
 
   > Glitch lets us write code together in real time, so we can see each other typing at the same time (just like Google Docs)!
 
+<br/>
+
 Then be sure to click on `script.js` (in the left-side menu) to look at our JavaScript file.
 
-**Our ice breaker warm-up activity:** Copy-paste the sample code in the JavaScript file and change the text a little bit to introduce yourself to our class!
+<br/>
+
+**Our ice breaker warm-up activity:** Copy-paste the sample code in the JavaScript file and change the text a little bit to say your name and introduce yourself to our class!
 
 <br/>
 
 **Example:**
 ```javascript
 // Display a message in the console:
-console.log("Hi, I'm Liz! I do freelance web dev, teach coding classes, and run meetup groups. :)");
+console.log("Liz - hi!");
 ```
 
 <br/>
@@ -69,22 +76,7 @@ This is a *very* useful tool for developers to see what's going on inside the co
 
 <br/>
 
-## Group Challenge 2: 
-
-Let's take the code from the previous challenge and ***break it several different ways***!
-
-<br/>
-
-**Then discuss** *(in other words, take random guesses and talk about your ideas!)*:
-
-  1. Which words or symbols can we *change* without breaking the code?
-  
-  2. Which words/symbols need to stay the same?
-
-  3. Does the *order* matter for each of our two lines of code? Why or why not?  
-
-
 <br/>
 <hr/>
 
-:trophy: ***Great job!*** **[Next up: Interacting with the web page (Document Object Model)](https://github.com/LearnTeachCode/js-intro-dom/blob/master/2-dom-challenges.md)**
+:trophy: ***Great job!*** **[Next up: .....](#)**
