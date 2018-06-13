@@ -2,9 +2,9 @@
 
 There are ***three languages*** that all web browsers understand:
 
-  1. **HTML** (HyperText Markup Language) -- the ***skeleton*** or the ***structure*** of the page.
-  2. **CSS** (Cascading Style Sheets) -- the ***hair and makeup*** or the ***presentation*** of the page.
-  3. **JavaScript** (or JS for short) -- the ***brains and nervous system*** that makes decisions, responds to the user, etc.
+  1. **HTML** (HyperText Markup Language) -- the ***skeleton***, the ***structure*** of the page.
+  2. **CSS** (Cascading Style Sheets) -- the ***skin (or hair and makeup***), the ***presentation*** of the page.
+  3. **JavaScript** (or JS for short) -- the ***brain and nervous system*** that makes decisions, responds to the user, etc.
 
 <br/>
 
@@ -51,4 +51,4 @@ The red text and arrow highlights how the HTML file tells the web browser to als
 <br/>
 <hr/>
 
-:trophy: ***Great job!*** **[Next up: let's do some group introductions and test out the browser console to run our first lines of JavaScript code!](https://github.com/LearnTeachCode/js-intro-dom/blob/master/1-intro-console.md)**
+:trophy: ***Great job!*** **[Next up: let's do some group introductions and test out the browser console to run our first lines of JavaScript code!](https://github.com/LearnTeachCode/js-intro-logic/blob/master/1-intro-console.md)**
